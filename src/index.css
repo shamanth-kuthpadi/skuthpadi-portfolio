@@ -297,3 +297,39 @@ p {
     background-color: hsl(94, 65%, 20%);
     color: white;
 }
+
+/* Footer */
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background-color: #f8f9fa; /* Light gray background */
+  border-top: 1px solid #ddd;
+}
+
+.footer-icons {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-icons a {
+  color: #333; /* Dark gray color for icons */
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-icons a:hover {
+  color: #0077b5; /* Highlight color for icons */
+}
+
+.footer p {
+  font-size: 0.9rem;
+  color: #666; /* Muted text color */
+  margin: 0;
+}
+
