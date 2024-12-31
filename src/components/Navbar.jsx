@@ -4,12 +4,12 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-left">
-        <Link className="navbar-elem" to="/about">
+        <Link className="navbar-elem" to="/">
           Shamanth Kuthpadi
         </Link>
       </div>
       <div className="navbar-right">
-        <Link className="navbar-elem" to="/about">
+        <Link className="navbar-elem" to="/">
           about
         </Link>
         <Link className="navbar-elem" to="/projects">

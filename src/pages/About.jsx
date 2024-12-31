@@ -83,7 +83,7 @@ function About() {
               "Collaborated directly with professors and course instructors to foster learning 300+ students",
               "Engaged directly with students to provide course assistance in a broad category of concepts",
             ]}
-            link="https://www.umass.edu/admissions/undergraduate-admissions?utm_source=google&utm_medium=cpc&utm_campaign=6140_umass_fy25_admissions_brand_sem_newyork&utm_content=brand&gad_source=1&gclid=CjwKCAiAg8S7BhATEiwAO2-R6g2Ks821G2rNfg7CHJsKdZQnfYsjmEnvfa6dU1l-1DXdhrmvwPwMaxoC40MQAvD_BwE"
+            link="https://www.umass.edu"
           />
           <Experience
             name="University of Massachusetts Amherst"
@@ -93,7 +93,7 @@ function About() {
               "Mentored 30+ students in a broad category of courses within the computer science department, earning an extension contract as a result of my effectiveness",
               "Selected as a distinguished hire from a pool of hundreds of candidates through two rounds of interview where I was tested on communication skills and academic aptitude",
             ]}
-            link="https://www.umass.edu/admissions/undergraduate-admissions?utm_source=google&utm_medium=cpc&utm_campaign=6140_umass_fy25_admissions_brand_sem_newyork&utm_content=brand&gad_source=1&gclid=CjwKCAiAg8S7BhATEiwAO2-R6g2Ks821G2rNfg7CHJsKdZQnfYsjmEnvfa6dU1l-1DXdhrmvwPwMaxoC40MQAvD_BwE"
+            link="https://www.umass.edu"
           />
           <Experience
             name="University of Massachusetts at Amherst"
@@ -104,7 +104,7 @@ function About() {
               "Shadowed PhD research work in Approximate Nearest Neighbor(ANN) search algorithm, gaining exposure to lab work",
               "Calculated performance metrics of various ANNs systems and visualized them graphically",
             ]}
-            link="https://www.umass.edu/admissions/undergraduate-admissions?utm_source=google&utm_medium=cpc&utm_campaign=6140_umass_fy25_admissions_brand_sem_newyork&utm_content=brand&gad_source=1&gclid=CjwKCAiAg8S7BhATEiwAO2-R6g2Ks821G2rNfg7CHJsKdZQnfYsjmEnvfa6dU1l-1DXdhrmvwPwMaxoC40MQAvD_BwE"
+            link="https://www.umass.edu"
           />
         </div>
       </div>
